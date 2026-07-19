@@ -1,0 +1,9 @@
+19-07-2026,Subscription,200.0,Netflix
+26-07-2026,Transportation,1400.0,BusTicket
+02-07-2026,Shopping,2500.0,Grocery
+11-06-2026,Entertainment,300.0,Movie
+15-06-2026,Entertainment,1500.0,Arcade
+26-06-2026,Subscription,100.0,Spotify
+10-07-2026,Shopping,440.0,Skincare
+15-08-2026,Transportation,1400.0,BusTicket
+08-05-2026,Food,800.0,Forum
