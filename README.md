@@ -73,6 +73,8 @@ AI_Expense_Tracker/
 ### Expense Analytics
 (Charts.png)
 
+### Search Expenses
+(SearchExpense.png)
 ---
 
 ## ⚙️ Installation
